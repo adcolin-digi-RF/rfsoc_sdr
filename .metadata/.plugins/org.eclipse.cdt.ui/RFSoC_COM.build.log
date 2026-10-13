@@ -1,0 +1,24 @@
+07:17:40 **** Incremental Build of configuration Debug for project RFSoC_COM ****
+make all 
+'Building file: ../src/eth_ddr.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/eth_ddr.o" -mcmodel=large -D __BAREMETAL__ -IC:/Users/col_m/vws/rfsoc_com/ZCU111_PLDDR_DMA/export/ZCU111_PLDDR_DMA/sw/ZCU111_PLDDR_DMA/standalone_psu_cortexa53_1/bspinclude/include -MMD -MP -MF"src/eth_ddr.d" -MT"src/eth_ddr.o" -o "src/eth_ddr.o" "../src/eth_ddr.c"
+../src/eth_ddr.c:198:13: warning: 'print_addr' defined but not used [-Wunused-function]
+  198 | static void print_addr(UINTPTR addr)
+      |             ^~~~~~~~~~
+'Finished building: ../src/eth_ddr.c'
+' '
+'Building target: RFSoC_COM.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -mcmodel=large -Wl,-T -Wl,../src/lscript.ld -LC:/Users/col_m/vws/rfsoc_com/ZCU111_PLDDR_DMA/export/ZCU111_PLDDR_DMA/sw/ZCU111_PLDDR_DMA/standalone_psu_cortexa53_1/bsplib/lib -o "RFSoC_COM.elf"  ./src/adcFreezeCal.o ./src/adcSetFreezeCal.o ./src/adcSetUnFreezeCal.o ./src/cap_dma.o ./src/cli.o ./src/cmd_dac_adc_int_dec.o ./src/cmd_func_dac.o ./src/cmd_func_mem.o ./src/eth_ddr.o ./src/main.o ./src/platform_zynqmp.o ./src/play_dma.o ./src/rfdc_nyquistzone.o ./src/rfdc_poweron_status.o ./src/xrfdc.o ./src/xrfdc_clk.o ./src/xrfdc_clock.o ./src/xrfdc_g.o ./src/xrfdc_intr.o ./src/xrfdc_mb.o ./src/xrfdc_mixer.o ./src/xrfdc_mts.o ./src/xrfdc_sinit.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-lmetal,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-lgcc,-lc,-lmetal,--end-group
+'Finished building target: RFSoC_COM.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size RFSoC_COM.elf  |tee "RFSoC_COM.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 467412	  32264	4301353224	6885604	 6910e4	RFSoC_COM.elf
+'Finished building: RFSoC_COM.elf.size'
+' '
+
+07:17:41 Build Finished (took 1s.117ms)
+

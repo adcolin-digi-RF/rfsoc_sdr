@@ -1,0 +1,10 @@
+07:17:41 **** Incremental Build of configuration Debug for project RFSoC_COM_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 60372 C:/Users/col_m/vws/rfsoc_com/ZCU111_PLDDR_DMA/export/ZCU111_PLDDR_DMA/ZCU111_PLDDR_DMA.xpfm standalone_psu_cortexa53_1 C:/Users/col_m/vws/rfsoc_com/RFSoC_COM_system/Debug/system.bif
+sdcard_gen --xpfm C:/Users/col_m/vws/rfsoc_com/ZCU111_PLDDR_DMA/export/ZCU111_PLDDR_DMA/ZCU111_PLDDR_DMA.xpfm --sys_config ZCU111_PLDDR_DMA --bif C:/Users/col_m/vws/rfsoc_com/RFSoC_COM_system/Debug/system.bif --bitstream C:/Users/col_m/vws/rfsoc_com/RFSoC_COM/_ide/bitstream/design_1_wrapper.bit --elf C:/Users/col_m/vws/rfsoc_com/RFSoC_COM/Debug/RFSoC_COM.elf,psu_cortexa53_0
+creating BOOT.BIN using C:/Users/col_m/vws/rfsoc_com/RFSoC_COM/_ide/bitstream/design_1_wrapper.bit
+Running C:/Xilinx/Vitis/2022.2/bin/bootgen -arch zynqmp -image C:/Users/col_m/vws/rfsoc_com/RFSoC_COM_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+07:17:49 Build Finished (took 7s.816ms)
+
