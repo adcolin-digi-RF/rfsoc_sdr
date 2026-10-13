@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="RFSoC_COM" location="C:/Users/col_m/vws/rfsoc_com/RFSoC_COM" platform="C:/Users/col_m/vws/rfsoc_com/ZCU111_PLDDR_DMA/export/ZCU111_PLDDR_DMA/ZCU111_PLDDR_DMA.xpfm" platformUID="xilinx:zcu111::0.0(custom)" systemProject="RFSoC_COM_system" sysConfig="ZCU111_PLDDR_DMA" runtime="C/C++" cpu="standalone_psu_cortexa53_1" cpuInstance="psu_cortexa53_0" os="standalone" mssSignature="1a1b6eafdcfc5b3e94c8ef76fcf53125">
+  <configuration name="Debug" id="xilinx.gnu.arm.a53.exe.debug.1979105464">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.a53.exe.release.1230879097" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

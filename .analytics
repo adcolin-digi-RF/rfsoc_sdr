@@ -1,0 +1,102 @@
+timestamp=[2026-09-04 11:13:30], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.878, duration_ms=878, data={}
+timestamp=[2026-09-04 11:14:40], mode=APP_CREATION, duration=0:00:03.022, duration_ms=3022, data={name=RFSoC_COM, project_type=sdk, os=standalone, processor=cortex-a53, runtime=C/C++, platform=ZCU111_PLDDR_DMA, application_type=application}
+timestamp=[2026-09-04 11:16:05], mode=PLATFORM_GENERATION, duration=0:01:24.295, duration_ms=84295, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-04 11:16:13], mode=BUILD, duration=0:00:08.127, duration_ms=8127, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-04 11:16:17], mode=BUILD, duration=0:00:00.326, duration_ms=326, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-04 11:16:26], mode=BUILD, duration=0:00:08.604, duration_ms=8604, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-04 11:17:08], mode=WORKBENCH_START, duration=0:00:05.757, duration_ms=5757, data={}
+timestamp=[2026-09-04 11:17:08], mode=WORKBENCH_UI_INIT, duration=0:00:00.475, duration_ms=475, data={editors_count=0, platform_editors_count=0, projects_count=3, platform_projects_count=1, active_platform_editor=false, projects=RFSoC_COM,RFSoC_COM_system,ZCU111_PLDDR_DMA}
+timestamp=[2026-09-04 11:17:10], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.909, duration_ms=909, data={}
+timestamp=[2026-09-04 11:43:40], mode=PLATFORM_GENERATION, duration=0:01:10.287, duration_ms=70287, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-04 11:43:47], mode=BUILD, duration=0:00:07.095, duration_ms=7095, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-04 11:43:56], mode=BUILD, duration=0:00:08.378, duration_ms=8378, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 08:47:09], mode=WORKBENCH_START, duration=0:00:05.979, duration_ms=5979, data={}
+timestamp=[2026-09-05 08:47:09], mode=WORKBENCH_UI_INIT, duration=0:00:00.466, duration_ms=466, data={editors_count=0, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RFSoC_COM,RFSoC_COM_system,RemoteSystemsTempFiles,ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 08:47:11], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.137, duration_ms=1137, data={}
+timestamp=[2026-09-05 08:57:42], mode=BUILD, duration=0:00:02.699, duration_ms=2699, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 08:57:51], mode=BUILD, duration=0:00:08.436, duration_ms=8436, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:04:01], mode=PLATFORM_GENERATION, duration=0:00:17.954, duration_ms=17954, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:04:02], mode=BUILD, duration=0:00:00.475, duration_ms=475, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:07:21], mode=PLATFORM_GENERATION, duration=0:01:21.649, duration_ms=81649, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:07:30], mode=BUILD, duration=0:00:08.201, duration_ms=8201, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:07:36], mode=BUILD, duration=0:00:05.117, duration_ms=5117, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:08:30], mode=BUILD, duration=0:00:00.199, duration_ms=199, data={name=RFSoC_COM, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:08:30], mode=BUILD, duration=0:00:00.197, duration_ms=197, data={name=RFSoC_COM_system, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:08:53], mode=PLATFORM_GENERATION, duration=0:00:23.360, duration_ms=23360, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:10:25], mode=PLATFORM_GENERATION, duration=0:01:31.819, duration_ms=91819, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:10:33], mode=BUILD, duration=0:00:07.516, duration_ms=7516, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:10:41], mode=BUILD, duration=0:00:08.422, duration_ms=8422, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:16:37], mode=PLATFORM_GENERATION, duration=0:00:21.591, duration_ms=21591, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:16:37], mode=BUILD, duration=0:00:00.382, duration_ms=382, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:16:38], mode=BUILD, duration=0:00:00.192, duration_ms=192, data={name=RFSoC_COM, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:16:38], mode=BUILD, duration=0:00:00.196, duration_ms=196, data={name=RFSoC_COM_system, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:16:54], mode=PLATFORM_GENERATION, duration=0:00:16.265, duration_ms=16265, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:18:10], mode=PLATFORM_GENERATION, duration=0:01:15.973, duration_ms=75973, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:19:00], mode=BUILD, duration=0:00:00.212, duration_ms=212, data={name=RFSoC_COM, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:19:00], mode=BUILD, duration=0:00:00.200, duration_ms=200, data={name=RFSoC_COM_system, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:19:21], mode=PLATFORM_GENERATION, duration=0:00:20.910, duration_ms=20910, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:20:37], mode=PLATFORM_GENERATION, duration=0:01:16.066, duration_ms=76066, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:23:05], mode=BUILD, duration=0:00:00.204, duration_ms=204, data={name=RFSoC_COM, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:23:05], mode=BUILD, duration=0:00:00.197, duration_ms=197, data={name=RFSoC_COM_system, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:23:23], mode=PLATFORM_GENERATION, duration=0:00:18.083, duration_ms=18083, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:24:45], mode=PLATFORM_GENERATION, duration=0:01:21.829, duration_ms=81829, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:26:09], mode=BUILD, duration=0:00:00.204, duration_ms=204, data={name=RFSoC_COM, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:26:09], mode=BUILD, duration=0:00:00.183, duration_ms=183, data={name=RFSoC_COM_system, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:26:31], mode=PLATFORM_GENERATION, duration=0:00:21.143, duration_ms=21143, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:28:05], mode=PLATFORM_GENERATION, duration=0:01:33.748, duration_ms=93748, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:28:13], mode=BUILD, duration=0:00:07.947, duration_ms=7947, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:28:18], mode=BUILD, duration=0:00:05.230, duration_ms=5230, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:29:05], mode=PLATFORM_GENERATION, duration=0:00:23.100, duration_ms=23100, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:29:05], mode=BUILD, duration=0:00:00.196, duration_ms=196, data={name=RFSoC_COM, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:29:06], mode=BUILD, duration=0:00:00.194, duration_ms=194, data={name=RFSoC_COM_system, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:30:39], mode=PLATFORM_GENERATION, duration=0:01:28.621, duration_ms=88621, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:30:47], mode=BUILD, duration=0:00:07.632, duration_ms=7632, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:30:55], mode=BUILD, duration=0:00:08.001, duration_ms=8001, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:33:58], mode=PLATFORM_GENERATION, duration=0:00:19.158, duration_ms=19158, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:35:33], mode=PLATFORM_GENERATION, duration=0:01:22.178, duration_ms=82178, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:35:55], mode=BUILD, duration=0:00:00.206, duration_ms=206, data={name=RFSoC_COM, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:35:55], mode=BUILD, duration=0:00:00.184, duration_ms=184, data={name=RFSoC_COM_system, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:36:14], mode=PLATFORM_GENERATION, duration=0:00:18.138, duration_ms=18138, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:37:30], mode=PLATFORM_GENERATION, duration=0:01:15.987, duration_ms=75987, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:42:52], mode=PLATFORM_GENERATION, duration=0:01:14.475, duration_ms=74475, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:42:59], mode=BUILD, duration=0:00:07.692, duration_ms=7692, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:43:05], mode=BUILD, duration=0:00:05.313, duration_ms=5313, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:43:41], mode=PLATFORM_GENERATION, duration=0:00:23.115, duration_ms=23115, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:43:42], mode=BUILD, duration=0:00:00.192, duration_ms=192, data={name=RFSoC_COM, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:43:42], mode=BUILD, duration=0:00:00.195, duration_ms=195, data={name=RFSoC_COM_system, configuration=Debug, clean_build=true}
+timestamp=[2026-09-05 09:45:37], mode=PLATFORM_GENERATION, duration=0:01:28.900, duration_ms=88900, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-05 09:45:45], mode=BUILD, duration=0:00:07.417, duration_ms=7417, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 09:45:53], mode=BUILD, duration=0:00:08.055, duration_ms=8055, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 10:00:31], mode=BUILD, duration=0:00:01.145, duration_ms=1145, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 10:00:40], mode=BUILD, duration=0:00:08.375, duration_ms=8375, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 10:14:07], mode=BUILD, duration=0:00:01.140, duration_ms=1140, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 10:14:16], mode=BUILD, duration=0:00:08.303, duration_ms=8303, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 10:36:16], mode=BUILD, duration=0:00:01.129, duration_ms=1129, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 10:36:24], mode=BUILD, duration=0:00:08.170, duration_ms=8170, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 10:47:48], mode=BUILD, duration=0:00:01.150, duration_ms=1150, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 10:47:57], mode=BUILD, duration=0:00:08.137, duration_ms=8137, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 10:53:00], mode=BUILD, duration=0:00:01.127, duration_ms=1127, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 10:53:08], mode=BUILD, duration=0:00:08.247, duration_ms=8247, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 10:54:17], mode=BUILD, duration=0:00:01.126, duration_ms=1126, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 10:54:25], mode=BUILD, duration=0:00:08.052, duration_ms=8052, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 11:07:35], mode=BUILD, duration=0:00:01.128, duration_ms=1128, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-05 11:07:43], mode=BUILD, duration=0:00:08.396, duration_ms=8396, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-14 06:50:37], mode=WORKBENCH_START, duration=0:00:08.393, duration_ms=8393, data={}
+timestamp=[2026-09-14 06:50:38], mode=WORKBENCH_UI_INIT, duration=0:00:01.020, duration_ms=1020, data={editors_count=3, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RFSoC_COM,RFSoC_COM_system,RemoteSystemsTempFiles,ZCU111_PLDDR_DMA}
+timestamp=[2026-09-14 06:50:39], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.473, duration_ms=1473, data={}
+timestamp=[2026-09-14 06:52:54], mode=PLATFORM_GENERATION, duration=0:00:42.205, duration_ms=42205, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-14 06:53:16], mode=BUILD, duration=0:00:09.703, duration_ms=9703, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-14 06:54:00], mode=BUILD, duration=0:00:00.285, duration_ms=285, data={name=RFSoC_COM, configuration=Debug, clean_build=true}
+timestamp=[2026-09-14 06:54:01], mode=BUILD, duration=0:00:00.231, duration_ms=231, data={name=RFSoC_COM_system, configuration=Debug, clean_build=true}
+timestamp=[2026-09-14 06:54:24], mode=PLATFORM_GENERATION, duration=0:00:23.796, duration_ms=23796, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-14 06:56:06], mode=PLATFORM_GENERATION, duration=0:01:41.243, duration_ms=101243, data={name=ZCU111_PLDDR_DMA}
+timestamp=[2026-09-14 06:56:14], mode=BUILD, duration=0:00:08.176, duration_ms=8176, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-14 06:56:23], mode=BUILD, duration=0:00:08.970, duration_ms=8970, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-14 07:17:41], mode=BUILD, duration=0:00:01.132, duration_ms=1132, data={name=RFSoC_COM, configuration=Debug, clean_build=false}
+timestamp=[2026-09-14 07:17:49], mode=BUILD, duration=0:00:07.825, duration_ms=7825, data={name=RFSoC_COM_system, configuration=Debug, clean_build=false}
+timestamp=[2026-09-14 07:19:39], mode=WORKBENCH_START, duration=0:00:05.803, duration_ms=5803, data={}
+timestamp=[2026-09-14 07:19:39], mode=WORKBENCH_UI_INIT, duration=0:00:00.732, duration_ms=732, data={editors_count=3, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RFSoC_COM,RFSoC_COM_system,RemoteSystemsTempFiles,ZCU111_PLDDR_DMA}
+timestamp=[2026-09-14 07:19:40], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.902, duration_ms=902, data={}
+timestamp=[2026-10-12 07:59:59], mode=WORKBENCH_START, duration=0:00:07.687, duration_ms=7687, data={}
+timestamp=[2026-10-12 08:00:01], mode=WORKBENCH_UI_INIT, duration=0:00:01.078, duration_ms=1078, data={editors_count=3, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RFSoC_COM,RFSoC_COM_system,RemoteSystemsTempFiles,ZCU111_PLDDR_DMA}
+timestamp=[2026-10-12 08:00:02], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.601, duration_ms=1601, data={}

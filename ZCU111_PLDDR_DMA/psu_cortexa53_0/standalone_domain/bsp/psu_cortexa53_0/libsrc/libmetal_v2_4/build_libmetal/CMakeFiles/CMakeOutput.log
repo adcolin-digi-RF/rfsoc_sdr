@@ -1,0 +1,16 @@
+The target system is: Generic -  - arm
+The host system is: Windows - 6.2 - AMD64
+Determining if files stdatomic.h exist passed with the following output:
+Change Dir: C:/Users/col_m/vws/rfsoc_com/ZCU111_PLDDR_DMA/psu_cortexa53_0/standalone_domain/bsp/psu_cortexa53_0/libsrc/libmetal_v2_4/build_libmetal/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Strawberry/c/bin/gmake.exe" "cmTC_4bf52/fast"
+C:/Strawberry/c/bin/gmake.exe -f CMakeFiles/cmTC_4bf52.dir/build.make CMakeFiles/cmTC_4bf52.dir/build
+gmake.exe[1]: Entering directory 'C:/Users/col_m/vws/rfsoc_com/ZCU111_PLDDR_DMA/psu_cortexa53_0/standalone_domain/bsp/psu_cortexa53_0/libsrc/libmetal_v2_4/build_libmetal/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4bf52.dir/CheckIncludeFiles.c.obj
+C:/Xilinx/Vitis/2022.2/gnu/aarch64/nt/aarch64-none/bin/aarch64-none-elf-gcc.exe   -O2 -c -g -Wall -Wextra -fno-tree-loop-distribute-patterns -IC:/Users/col_m/vws/rfsoc_com/ZCU111_PLDDR_DMA/psu_cortexa53_0/standalone_domain/bsp/psu_cortexa53_0/include -c   -o CMakeFiles/cmTC_4bf52.dir/CheckIncludeFiles.c.obj   -c C:/Users/col_m/vws/rfsoc_com/ZCU111_PLDDR_DMA/psu_cortexa53_0/standalone_domain/bsp/psu_cortexa53_0/libsrc/libmetal_v2_4/build_libmetal/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTC_4bf52
+C:/Xilinx/Vitis/2022.2/gnu/aarch64/nt/aarch64-none/bin/aarch64-none-elf-gcc.exe  -O2 -c -g -Wall -Wextra -fno-tree-loop-distribute-patterns -IC:/Users/col_m/vws/rfsoc_com/ZCU111_PLDDR_DMA/psu_cortexa53_0/standalone_domain/bsp/psu_cortexa53_0/include -c    "CMakeFiles/cmTC_4bf52.dir/CheckIncludeFiles.c.obj"   -o cmTC_4bf52  
+aarch64-xilinx-elf-gcc.exe: warning: CMakeFiles/cmTC_4bf52.dir/CheckIncludeFiles.c.obj: linker input file unused because linking not done
+gmake.exe[1]: Leaving directory 'C:/Users/col_m/vws/rfsoc_com/ZCU111_PLDDR_DMA/psu_cortexa53_0/standalone_domain/bsp/psu_cortexa53_0/libsrc/libmetal_v2_4/build_libmetal/CMakeFiles/CMakeTmp'
+
+
